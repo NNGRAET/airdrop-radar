@@ -1,0 +1,41 @@
+name: 空投雷达
+
+# 云端定时：每小时跑监控；每天北京时间 08:00 额外生成日报网页
+# GitHub 用的是 UTC，北京时间 = UTC + 8
+on:
+  schedule:
+    - cron: "7 * * * *"     # 每小时第 7 分钟：抓取监控 + 刷新日报
+  workflow_dispatch:        # 允许在 GitHub 网页上手动点一次运行
+
+permissions:
+  contents: write           # 允许把日报网页推回仓库
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行监控（发现新机会 -> 微信推送）
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+        run: python airdrop_monitor.py
+
+      - name: 生成日报网页
+        run: python daily_report.py
+
+      - name: 保存状态并发布日报
+        run: |
+          git config user.name "airdrop-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add report.html seen.json
+          git diff --cached --quiet || git commit -m "update $(date -u +%Y-%m-%d\ %H:%M) UTC"
+          git push
