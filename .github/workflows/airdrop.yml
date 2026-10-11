@@ -1,0 +1,51 @@
+ name: 空投雷达
+
+# 云端定时：每小时跑监控 + 刷新日报网页
+# GitHub 用 UTC，北京时间 = UTC + 8
+on:
+  schedule:
+    - cron: "7 * * * *"     # 每小时第 7 分钟运行
+  workflow_dispatch:        # 允许在 GitHub 网页上手动运行
+
+permissions:
+  contents: write           # 允许把日报网页推回仓库
+
+# 并发锁：定时触发与手动触发重叠时排队，避免 seen.json 冲突导致 push 失败
+concurrency:
+  group: airdrop-radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install "requests>=2.31,<3"
+
+      - name: 运行监控（发现新机会/状态变化 -> 微信推送）
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          TZ: Asia/Shanghai
+        run: python airdrop_monitor.py
+
+      - name: 生成日报网页
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          python daily_report.py
+          cp report.html index.html
+
+      - name: 保存状态并发布日报
+        run: |
+          git config user.name "airdrop-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add report.html index.html report.md seen.json
+          git diff --cached --quiet || git commit -m "update $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M') CST"
+          git push
