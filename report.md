@@ -5,7 +5,7 @@
 ## ⚡ 新上线速览（30 天内）
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$593M｜上线：2026-10-01（14天）
+- 类别：Risk Curators｜TVL：$590M｜上线：2026-10-01（14天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
@@ -33,7 +33,7 @@
 - 推特：https://x.com/popdex_
 
 ### Papertrade（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$62M｜上线：2026-10-09（5天）
+- 类别：Derivatives｜TVL：$61M｜上线：2026-10-09（5天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
@@ -63,7 +63,7 @@
 ## 🏆 综合评分 Top 10
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（335天）
+- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（336天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -91,7 +91,7 @@
 - 推特：https://x.com/Kamino
 
 ### Starknet BTC Staking（评分 6.6）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$45M｜上线：2026-04-07（190天）
+- 类别：Staking Pool｜TVL：$45M｜上线：2026-04-07（191天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -112,7 +112,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$593M｜上线：2026-10-01（14天）
+- 类别：Risk Curators｜TVL：$590M｜上线：2026-10-01（14天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
@@ -126,7 +126,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### RocketSwap Anubis（评分 6.0）⚠未审计
-- 类别：Dexs｜TVL：$356M｜上线：2026-07-01（105天）
+- 类别：Dexs｜TVL：$355M｜上线：2026-07-01（106天）
 - 链：Anubis
 - 说明：RocketSwap is a Uniswap V2 fork DEX deployed on Anubis.
 - 推特：https://x.com/Rocket_Swap_
