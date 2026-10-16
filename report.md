@@ -1,32 +1,32 @@
 # 🪂 空投雷达日报 2026-10-17
 
-监控池 **427** 个未发币协议｜今日新增 **427** 个｜30天内上线 11 个｜有融资 30 个
+监控池 **428** 个未发币协议｜今日新增 **428** 个｜30天内上线 11 个｜有融资 30 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$590M｜上线：2026-10-01（15天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（16天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$247M｜上线：2026-10-01（15天）
+- 类别：Liquid Staking｜TVL：$291M｜上线：2026-10-01（16天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
 - 推特：https://x.com/FWDind
 
 ### SunSwap V4（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$109M｜上线：2026-10-09（7天）
+- 类别：Dexs｜TVL：$109M｜上线：2026-10-09（8天）
 - 链：Tron
 - 说明：SunSwap V4 is a TRON-based AMM with a singleton PoolManager, hooks and native TRX pools, the latest 
 - 官网：https://sun.io
 - 推特：https://x.com/OfficialSUNio
 
 ### Popdex Bridge（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Canonical Bridge｜TVL：$71M｜上线：2026-09-30（16天）
+- 类别：Canonical Bridge｜TVL：$71M｜上线：2026-09-30（17天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
@@ -47,14 +47,14 @@
 - 推特：https://x.com/pacifica_fi
 
 ### Definity Staked SOL（评分 4.6）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$32M｜上线：2026-10-01（15天）
+- 类别：Liquid Staking｜TVL：$32M｜上线：2026-10-01（16天）
 - 链：Solana
 - 说明：Stake SOL on Definity, receive definSOL tokens.
 - 官网：https://www.definity.finance/
 - 推特：https://x.com/RealDefinity
 
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$183M｜上线：2026-10-08（8天）
+- 类别：Options｜TVL：$184M｜上线：2026-10-08（8天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
@@ -62,19 +62,19 @@
 
 ## 🏆 综合评分 Top 10
 
+### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
+- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（337天）
+- 链：Solana
+- 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
+- 官网：https://doublezero.xyz/
+- 推特：https://x.com/doublezero
+
 ### Kamino Liquidity（评分 7.0）💰有融资
 - 类别：Liquidity Manager｜TVL：$72M｜上线：2022-09-05（1502天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
-
-### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$72M｜上线：2025-11-13（337天）
-- 链：Solana
-- 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
-- 官网：https://doublezero.xyz/
-- 推特：https://x.com/doublezero
 
 ### Sanctum Reserve（评分 7.0）💰有融资
 - 类别：Yield｜TVL：$65M｜上线：2023-08-15（1158天）
@@ -84,7 +84,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$50M｜上线：2026-04-07（192天）
+- 类别：Staking Pool｜TVL：$50M｜上线：2026-04-07（193天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -105,28 +105,28 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$737M｜上线：2024-01-30（991天）
+- 类别：Derivatives｜TVL：$740M｜上线：2024-01-30（991天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$590M｜上线：2026-10-01（15天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（16天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$540M｜上线：2024-08-16（791天）
+- 类别：Liquid Staking｜TVL：$545M｜上线：2024-08-16（791天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### RocketSwap Anubis（评分 6.0）⚠未审计
-- 类别：Dexs｜TVL：$355M｜上线：2026-07-01（107天）
+- 类别：Dexs｜TVL：$355M｜上线：2026-07-01（108天）
 - 链：Anubis
 - 说明：RocketSwap is a Uniswap V2 fork DEX deployed on Anubis.
 - 推特：https://x.com/Rocket_Swap_
