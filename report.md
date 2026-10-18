@@ -5,14 +5,14 @@
 ## ⚡ 新上线速览（30 天内）
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$593M｜上线：2026-10-01（17天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（17天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$290M｜上线：2026-10-01（17天）
+- 类别：Liquid Staking｜TVL：$288M｜上线：2026-10-01（17天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -33,14 +33,14 @@
 - 推特：https://x.com/popdex_
 
 ### Papertrade（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$67M｜上线：2026-10-09（8天）
+- 类别：Derivatives｜TVL：$64M｜上线：2026-10-09（9天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
 - 推特：https://x.com/papertrade_xyz
 
 ### Pacifica Bridge（评分 4.9）⚡新上线
-- 类别：Bridge｜TVL：$24M｜上线：2026-10-13（4天）
+- 类别：Bridge｜TVL：$24M｜上线：2026-10-13（5天）
 - 链：Solana
 - 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
 - 官网：https://app.pacifica.fi
@@ -54,7 +54,7 @@
 - 推特：https://x.com/RealDefinity
 
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$184M｜上线：2026-10-08（9天）
+- 类别：Options｜TVL：$184M｜上线：2026-10-08（10天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
@@ -63,7 +63,7 @@
 ## 🏆 综合评分 Top 10
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（339天）
+- 类别：Liquid Staking｜TVL：$72M｜上线：2025-11-13（339天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -77,7 +77,7 @@
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$65M｜上线：2023-08-15（1159天）
+- 类别：Yield｜TVL：$64M｜上线：2023-08-15（1159天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -105,28 +105,28 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$740M｜上线：2024-01-30（992天）
+- 类别：Derivatives｜TVL：$737M｜上线：2024-01-30（992天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$593M｜上线：2026-10-01（17天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（17天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$545M｜上线：2024-08-16（792天）
+- 类别：Liquid Staking｜TVL：$539M｜上线：2024-08-16（793天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### RocketSwap Anubis（评分 6.0）⚠未审计
-- 类别：Dexs｜TVL：$352M｜上线：2026-07-01（109天）
+- 类别：Dexs｜TVL：$350M｜上线：2026-07-01（109天）
 - 链：Anubis
 - 说明：RocketSwap is a Uniswap V2 fork DEX deployed on Anubis.
 - 推特：https://x.com/Rocket_Swap_
