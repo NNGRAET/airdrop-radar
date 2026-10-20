@@ -1,18 +1,18 @@
 # 🪂 空投雷达日报 2026-10-20
 
-监控池 **427** 个未发币协议｜今日新增 **427** 个｜30天内上线 10 个｜有融资 30 个
+监控池 **426** 个未发币协议｜今日新增 **426** 个｜30天内上线 10 个｜有融资 30 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$592M｜上线：2026-10-01（19天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（19天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$294M｜上线：2026-10-01（19天）
+- 类别：Liquid Staking｜TVL：$292M｜上线：2026-10-01（19天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -33,7 +33,7 @@
 - 推特：https://x.com/popdex_
 
 ### Papertrade（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$64M｜上线：2026-10-09（10天）
+- 类别：Derivatives｜TVL：$59M｜上线：2026-10-09（10天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
@@ -63,7 +63,7 @@
 ## 🏆 综合评分 Top 10
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（340天）
+- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（341天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -105,28 +105,28 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$740M｜上线：2024-01-30（994天）
+- 类别：Derivatives｜TVL：$737M｜上线：2024-01-30（994天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$592M｜上线：2026-10-01（19天）
+- 类别：Risk Curators｜TVL：$591M｜上线：2026-10-01（19天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$549M｜上线：2024-08-16（794天）
+- 类别：Liquid Staking｜TVL：$550M｜上线：2024-08-16（794天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### RocketSwap Anubis（评分 6.0）⚠未审计
-- 类别：Dexs｜TVL：$339M｜上线：2026-07-01（111天）
+- 类别：Dexs｜TVL：$337M｜上线：2026-07-01（111天）
 - 链：Anubis
 - 说明：RocketSwap is a Uniswap V2 fork DEX deployed on Anubis.
 - 推特：https://x.com/Rocket_Swap_
