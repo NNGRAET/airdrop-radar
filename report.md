@@ -1,18 +1,18 @@
 # 🪂 空投雷达日报 2026-10-21
 
-监控池 **429** 个未发币协议｜今日新增 **429** 个｜30天内上线 10 个｜有融资 31 个
+监控池 **430** 个未发币协议｜今日新增 **430** 个｜30天内上线 10 个｜有融资 31 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$602M｜上线：2026-10-01（20天）
+- 类别：Risk Curators｜TVL：$601M｜上线：2026-10-01（20天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$298M｜上线：2026-10-01（20天）
+- 类别：Liquid Staking｜TVL：$297M｜上线：2026-10-01（20天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -32,8 +32,8 @@
 - 官网：https://popdex.xyz/
 - 推特：https://x.com/popdex_
 
-### Papertrade（评分 5.9）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$48M｜上线：2026-10-09（11天）
+### Papertrade（评分 5.7）⚡新上线 ⚠未审计
+- 类别：Derivatives｜TVL：$46M｜上线：2026-10-09（11天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
@@ -63,7 +63,7 @@
 ## 🏆 综合评分 Top 10
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$74M｜上线：2025-11-13（341天）
+- 类别：Liquid Staking｜TVL：$74M｜上线：2025-11-13（342天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -84,7 +84,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$51M｜上线：2026-04-07（197天）
+- 类别：Staking Pool｜TVL：$52M｜上线：2026-04-07（197天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -105,21 +105,21 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$749M｜上线：2024-01-30（995天）
+- 类别：Derivatives｜TVL：$748M｜上线：2024-01-30（995天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$602M｜上线：2026-10-01（20天）
+- 类别：Risk Curators｜TVL：$601M｜上线：2026-10-01（20天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$560M｜上线：2024-08-16（795天）
+- 类别：Liquid Staking｜TVL：$558M｜上线：2024-08-16（795天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
