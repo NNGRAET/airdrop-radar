@@ -5,7 +5,7 @@
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（1天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（2天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -19,7 +19,7 @@
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$292M｜上线：2026-10-01（22天）
+- 类别：Liquid Staking｜TVL：$291M｜上线：2026-10-01（22天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -33,7 +33,7 @@
 - 推特：https://x.com/OfficialSUNio
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$94M｜上线：2026-10-21（1天）
+- 类别：Derivatives｜TVL：$94M｜上线：2026-10-21（2天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
@@ -46,31 +46,31 @@
 - 官网：https://popdex.xyz/
 - 推特：https://x.com/popdex_
 
-### Papertrade（评分 5.1）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$38M｜上线：2026-10-09（13天）
-- 链：Hyperliquid L1
-- 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
-- 官网：https://papertrade.xyz
-- 推特：https://x.com/papertrade_xyz
-
-### Aero Basic（评分 5.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$37M｜上线：2026-10-21（2天）
+### Aero Basic（评分 5.6）⚡新上线 ⚠未审计
+- 类别：Dexs｜TVL：$45M｜上线：2026-10-21（2天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
 - 推特：https://x.com/aeroxyz
 
+### Pacifica Bridge（评分 5.0）⚡新上线
+- 类别：Bridge｜TVL：$24M｜上线：2026-10-13（10天）
+- 链：Solana
+- 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
+- 官网：https://app.pacifica.fi
+- 推特：https://x.com/pacifica_fi
+
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（1天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（2天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$72M｜上线：2025-11-13（344天）
+- 类别：Liquid Staking｜TVL：$73M｜上线：2025-11-13（344天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -98,7 +98,7 @@
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.3B｜上线：2023-11-10（1077天）
+- 类别：Lending｜TVL：$1.3B｜上线：2023-11-10（1078天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
@@ -112,7 +112,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$729M｜上线：2024-01-30（997天）
+- 类别：Derivatives｜TVL：$730M｜上线：2024-01-30（997天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -126,7 +126,7 @@
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$544M｜上线：2024-08-16（797天）
+- 类别：Liquid Staking｜TVL：$547M｜上线：2024-08-16（798天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
