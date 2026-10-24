@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-10-24
 
-监控池 **429** 个未发币协议｜今日新增 **429** 个｜30天内上线 14 个｜有融资 30 个
+监控池 **427** 个未发币协议｜今日新增 **427** 个｜30天内上线 14 个｜有融资 30 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -12,7 +12,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$588M｜上线：2026-10-01（23天）
+- 类别：Risk Curators｜TVL：$587M｜上线：2026-10-01（23天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
@@ -46,7 +46,7 @@
 - 官网：https://popdex.xyz/
 - 推特：https://x.com/popdex_
 
-### Aero Basic（评分 5.9）⚡新上线 ⚠未审计
+### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
 - 类别：Dexs｜TVL：$49M｜上线：2026-10-21（3天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
@@ -98,7 +98,7 @@
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.3B｜上线：2023-11-10（1078天）
+- 类别：Lending｜TVL：$1.3B｜上线：2023-11-10（1079天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
@@ -112,21 +112,21 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$718M｜上线：2024-01-30（998天）
+- 类别：Derivatives｜TVL：$717M｜上线：2024-01-30（998天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$588M｜上线：2026-10-01（23天）
+- 类别：Risk Curators｜TVL：$587M｜上线：2026-10-01（23天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$534M｜上线：2024-08-16（799天）
+- 类别：Liquid Staking｜TVL：$531M｜上线：2024-08-16（799天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
