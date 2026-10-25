@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-10-25
 
-监控池 **426** 个未发币协议｜今日新增 **426** 个｜30天内上线 14 个｜有融资 30 个
+监控池 **430** 个未发币协议｜今日新增 **430** 个｜30天内上线 14 个｜有融资 30 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -12,14 +12,14 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$582M｜上线：2026-10-01（24天）
+- 类别：Risk Curators｜TVL：$586M｜上线：2026-10-01（24天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$284M｜上线：2026-10-01（24天）
+- 类别：Liquid Staking｜TVL：$286M｜上线：2026-10-01（24天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -53,7 +53,7 @@
 - 官网：https://aero.xyz/
 - 推特：https://x.com/aeroxyz
 
-### Pacifica Bridge（评分 4.9）⚡新上线
+### Pacifica Bridge（评分 5.0）⚡新上线
 - 类别：Bridge｜TVL：$24M｜上线：2026-10-13（11天）
 - 链：Solana
 - 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
@@ -69,6 +69,13 @@
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
+### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
+- 类别：Liquid Staking｜TVL：$71M｜上线：2025-11-13（346天）
+- 链：Solana
+- 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
+- 官网：https://doublezero.xyz/
+- 推特：https://x.com/doublezero
+
 ### Kamino Liquidity（评分 7.0）💰有融资
 - 类别：Liquidity Manager｜TVL：$71M｜上线：2022-09-05（1510天）
 - 链：Solana
@@ -76,15 +83,8 @@
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
-### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$71M｜上线：2025-11-13（345天）
-- 链：Solana
-- 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
-- 官网：https://doublezero.xyz/
-- 推特：https://x.com/doublezero
-
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$63M｜上线：2023-08-15（1166天）
+- 类别：Yield｜TVL：$64M｜上线：2023-08-15（1166天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -98,35 +98,35 @@
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1079天）
+- 类别：Lending｜TVL：$1.3B｜上线：2023-11-10（1079天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$993M｜上线：2025-08-19（431天）
+- 类别：Lending｜TVL：$1.0B｜上线：2025-08-19（431天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$717M｜上线：2024-01-30（999天）
+- 类别：Derivatives｜TVL：$725M｜上线：2024-01-30（999天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$582M｜上线：2026-10-01（24天）
+- 类别：Risk Curators｜TVL：$586M｜上线：2026-10-01（24天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$532M｜上线：2024-08-16（799天）
+- 类别：Liquid Staking｜TVL：$536M｜上线：2024-08-16（799天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
