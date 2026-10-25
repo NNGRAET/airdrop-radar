@@ -1,4 +1,4 @@
-# 🪂 空投雷达日报 2026-10-25
+# 🪂 空投雷达日报 2026-10-26
 
 监控池 **428** 个未发币协议｜今日新增 **428** 个｜30天内上线 14 个｜有融资 30 个
 
@@ -12,14 +12,14 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$580M｜上线：2026-10-01（24天）
+- 类别：Risk Curators｜TVL：$585M｜上线：2026-10-01（24天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Forward Industries SOL（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Liquid Staking｜TVL：$282M｜上线：2026-10-01（24天）
+- 类别：Liquid Staking｜TVL：$285M｜上线：2026-10-01（24天）
 - 链：Solana
 - 说明：Staked SOL on Forward Industries, receive fwdSOL tokens.
 - 官网：https://www.forwardindustries.com/
@@ -47,7 +47,7 @@
 - 推特：https://x.com/popdex_
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$56M｜上线：2026-10-21（4天）
+- 类别：Dexs｜TVL：$57M｜上线：2026-10-21（4天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -77,7 +77,7 @@
 - 推特：https://x.com/Kamino
 
 ### DoubleZero Staked SOL（评分 7.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$70M｜上线：2025-11-13（346天）
+- 类别：Liquid Staking｜TVL：$71M｜上线：2025-11-13（346天）
 - 链：Solana
 - 说明：DoubleZero Staked SOL is a staking pool on the Solana network that allows users to stake their SOL a
 - 官网：https://doublezero.xyz/
@@ -112,21 +112,21 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$714M｜上线：2024-01-30（999天）
+- 类别：Derivatives｜TVL：$721M｜上线：2024-01-30（999天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$580M｜上线：2026-10-01（24天）
+- 类别：Risk Curators｜TVL：$585M｜上线：2026-10-01（24天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$527M｜上线：2024-08-16（800天）
+- 类别：Liquid Staking｜TVL：$534M｜上线：2024-08-16（800天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
