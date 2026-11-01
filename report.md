@@ -1,6 +1,6 @@
-# 🪂 空投雷达日报 2026-11-01
+# 🪂 空投雷达日报 2026-11-02
 
-监控池 **416** 个未发币协议｜今日新增 **416** 个｜30天内上线 10 个｜有融资 28 个
+监控池 **415** 个未发币协议｜今日新增 **415** 个｜30天内上线 10 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$60M｜上线：2026-10-21（11天）
+- 类别：Dexs｜TVL：$59M｜上线：2026-10-21（11天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -47,7 +47,7 @@
 - 推特：https://x.com/papertrade_xyz
 
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$178M｜上线：2026-10-08（24天）
+- 类别：Options｜TVL：$177M｜上线：2026-10-08（24天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
@@ -77,7 +77,7 @@
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$59M｜上线：2023-08-15（1174天）
+- 类别：Yield｜TVL：$58M｜上线：2023-08-15（1174天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -98,35 +98,35 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$929M｜上线：2025-08-19（439天）
+- 类别：Lending｜TVL：$924M｜上线：2025-08-19（439天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$691M｜上线：2024-01-30（1006天）
+- 类别：Derivatives｜TVL：$688M｜上线：2024-01-30（1006天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$575M｜上线：2026-10-01（31天）
+- 类别：Risk Curators｜TVL：$574M｜上线：2026-10-01（31天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$481M｜上线：2024-08-16（807天）
+- 类别：Liquid Staking｜TVL：$479M｜上线：2024-08-16（807天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nexus BTC（评分 6.0）💰有融资 ⚠未审计
-- 类别：Bridge｜TVL：$351M｜上线：2024-12-03（698天）
+- 类别：Bridge｜TVL：$350M｜上线：2024-12-03（698天）
 - 链：Bitcoin
 - 说明：NexusBTC is a wrapped Bitcoin token designed to facilitate cross-chain transactions within the decen
 - 官网：https://www.bit.com/
