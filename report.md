@@ -1,11 +1,11 @@
 # 🪂 空投雷达日报 2026-11-01
 
-监控池 **416** 个未发币协议｜今日新增 **416** 个｜30天内上线 11 个｜有融资 29 个
+监控池 **416** 个未发币协议｜今日新增 **416** 个｜30天内上线 10 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（10天）
+- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（11天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -19,7 +19,7 @@
 - 推特：https://x.com/OfficialSUNio
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$96M｜上线：2026-10-21（10天）
+- 类别：Derivatives｜TVL：$96M｜上线：2026-10-21（11天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
@@ -46,37 +46,38 @@
 - 官网：https://papertrade.xyz
 - 推特：https://x.com/papertrade_xyz
 
-### JUSD Finance（评分 4.1）⚡新上线 ⚠未审计
-- 类别：Basis Trading｜TVL：$26M｜上线：2026-10-02（29天）
-- 链：Arbitrum, Ethereum, Aleo
-- 说明：JUSD deploys deposited USDC into curated credit vaults, combining delta-neutral CEX/DEX arbitrage wi
-- 推特：https://x.com/jusd_finance
-
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$177M｜上线：2026-10-08（23天）
+- 类别：Options｜TVL：$178M｜上线：2026-10-08（24天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
 - 推特：https://x.com/derivexyz
 
+### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
+- 类别：Lending｜TVL：$21M｜上线：2026-10-22（10天）
+- 链：Polygon
+- 说明：Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate
+- 官网：https://lend.rnt.finance/
+- 推特：https://x.com/Reental_co
+
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（10天）
+- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（11天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$70M｜上线：2022-09-05（1517天）
+- 类别：Liquidity Manager｜TVL：$69M｜上线：2022-09-05（1518天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$59M｜上线：2023-08-15（1173天）
+- 类别：Yield｜TVL：$59M｜上线：2023-08-15（1174天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -90,21 +91,21 @@
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1086天）
+- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1087天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$930M｜上线：2025-08-19（439天）
+- 类别：Lending｜TVL：$929M｜上线：2025-08-19（439天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$693M｜上线：2024-01-30（1006天）
+- 类别：Derivatives｜TVL：$691M｜上线：2024-01-30（1006天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -118,14 +119,14 @@
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$485M｜上线：2024-08-16（806天）
+- 类别：Liquid Staking｜TVL：$481M｜上线：2024-08-16（807天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nexus BTC（评分 6.0）💰有融资 ⚠未审计
-- 类别：Bridge｜TVL：$352M｜上线：2024-12-03（697天）
+- 类别：Bridge｜TVL：$351M｜上线：2024-12-03（698天）
 - 链：Bitcoin
 - 说明：NexusBTC is a wrapped Bitcoin token designed to facilitate cross-chain transactions within the decen
 - 官网：https://www.bit.com/
