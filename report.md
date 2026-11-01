@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-01
 
-监控池 **417** 个未发币协议｜今日新增 **417** 个｜30天内上线 11 个｜有融资 29 个
+监控池 **416** 个未发币协议｜今日新增 **416** 个｜30天内上线 11 个｜有融资 29 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -12,7 +12,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### SunSwap V4（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$128M｜上线：2026-10-09（23天）
+- 类别：Dexs｜TVL：$129M｜上线：2026-10-09（23天）
 - 链：Tron
 - 说明：SunSwap V4 is a TRON-based AMM with a singleton PoolManager, hooks and native TRX pools, the latest 
 - 官网：https://sun.io
@@ -83,7 +83,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.9）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（207天）
+- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（208天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -97,7 +97,7 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$930M｜上线：2025-08-19（438天）
+- 类别：Lending｜TVL：$929M｜上线：2025-08-19（438天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -118,14 +118,14 @@
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$489M｜上线：2024-08-16（806天）
+- 类别：Liquid Staking｜TVL：$488M｜上线：2024-08-16（806天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nexus BTC（评分 6.0）💰有融资 ⚠未审计
-- 类别：Bridge｜TVL：$350M｜上线：2024-12-03（697天）
+- 类别：Bridge｜TVL：$351M｜上线：2024-12-03（697天）
 - 链：Bitcoin
 - 说明：NexusBTC is a wrapped Bitcoin token designed to facilitate cross-chain transactions within the decen
 - 官网：https://www.bit.com/
