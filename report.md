@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-03
 
-监控池 **413** 个未发币协议｜今日新增 **413** 个｜30天内上线 11 个｜有融资 28 个
+监控池 **412** 个未发币协议｜今日新增 **412** 个｜30天内上线 11 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -12,21 +12,21 @@
 - 推特：https://x.com/HyperliquidX
 
 ### SunSwap V4（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$132M｜上线：2026-10-09（24天）
+- 类别：Dexs｜TVL：$132M｜上线：2026-10-09（25天）
 - 链：Tron
 - 说明：SunSwap V4 is a TRON-based AMM with a singleton PoolManager, hooks and native TRX pools, the latest 
 - 官网：https://sun.io
 - 推特：https://x.com/OfficialSUNio
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$97M｜上线：2026-10-21（12天）
+- 类别：Derivatives｜TVL：$98M｜上线：2026-10-21（12天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$59M｜上线：2026-10-21（12天）
+- 类别：Dexs｜TVL：$58M｜上线：2026-10-21（13天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -47,14 +47,14 @@
 - 推特：https://x.com/papertrade_xyz
 
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$176M｜上线：2026-10-08（25天）
+- 类别：Options｜TVL：$173M｜上线：2026-10-08（25天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
 - 推特：https://x.com/derivexyz
 
 ### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
-- 类别：Lending｜TVL：$21M｜上线：2026-10-22（11天）
+- 类别：Lending｜TVL：$21M｜上线：2026-10-22（12天）
 - 链：Polygon
 - 说明：Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate
 - 官网：https://lend.rnt.finance/
@@ -77,14 +77,14 @@
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$58M｜上线：2023-08-15（1175天）
+- 类别：Yield｜TVL：$57M｜上线：2023-08-15（1175天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$50M｜上线：2026-04-07（209天）
+- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（210天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -98,35 +98,35 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.7）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（96天）
+- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（97天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$994M｜上线：2025-08-19（440天）
+- 类别：Lending｜TVL：$1.0B｜上线：2025-08-19（440天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$679M｜上线：2024-01-30（1007天）
+- 类别：Derivatives｜TVL：$671M｜上线：2024-01-30（1008天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$576M｜上线：2026-10-01（32天）
+- 类别：Risk Curators｜TVL：$573M｜上线：2026-10-01（33天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
 - 推特：https://x.com/noncecap
 
 ### Jupiter Staked SOL（评分 6.0）💰有融资 ⚠未审计
-- 类别：Liquid Staking｜TVL：$474M｜上线：2024-08-16（808天）
+- 类别：Liquid Staking｜TVL：$466M｜上线：2024-08-16（808天）
 - 链：Solana
 - 说明：Liquid staking on Solana
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
