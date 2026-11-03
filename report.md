@@ -12,7 +12,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### SunSwap V4（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$133M｜上线：2026-10-09（25天）
+- 类别：Dexs｜TVL：$133M｜上线：2026-10-09（26天）
 - 链：Tron
 - 说明：SunSwap V4 is a TRON-based AMM with a singleton PoolManager, hooks and native TRX pools, the latest 
 - 官网：https://sun.io
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$58M｜上线：2026-10-21（13天）
+- 类别：Dexs｜TVL：$59M｜上线：2026-10-21（14天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -39,13 +39,6 @@
 - 官网：https://app.pacifica.fi
 - 推特：https://x.com/pacifica_fi
 
-### Papertrade（评分 4.1）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$26M｜上线：2026-10-09（25天）
-- 链：Hyperliquid L1
-- 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
-- 官网：https://papertrade.xyz
-- 推特：https://x.com/papertrade_xyz
-
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
 - 类别：Options｜TVL：$178M｜上线：2026-10-08（26天）
 - 链：Ethereum
@@ -53,8 +46,15 @@
 - 官网：https://app.derive.xyz
 - 推特：https://x.com/derivexyz
 
+### Papertrade（评分 4.0）⚡新上线 ⚠未审计
+- 类别：Derivatives｜TVL：$26M｜上线：2026-10-09（25天）
+- 链：Hyperliquid L1
+- 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
+- 官网：https://papertrade.xyz
+- 推特：https://x.com/papertrade_xyz
+
 ### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
-- 类别：Lending｜TVL：$21M｜上线：2026-10-22（12天）
+- 类别：Lending｜TVL：$21M｜上线：2026-10-22（13天）
 - 链：Polygon
 - 说明：Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate
 - 官网：https://lend.rnt.finance/
@@ -70,7 +70,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$69M｜上线：2022-09-05（1520天）
+- 类别：Liquidity Manager｜TVL：$67M｜上线：2022-09-05（1520天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
@@ -84,7 +84,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$50M｜上线：2026-04-07（210天）
+- 类别：Staking Pool｜TVL：$50M｜上线：2026-04-07（211天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -98,7 +98,7 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.7）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（97天）
+- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（98天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -112,14 +112,14 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$678M｜上线：2024-01-30（1008天）
+- 类别：Derivatives｜TVL：$681M｜上线：2024-01-30（1009天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$581M｜上线：2026-10-01（33天）
+- 类别：Risk Curators｜TVL：$583M｜上线：2026-10-01（34天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
