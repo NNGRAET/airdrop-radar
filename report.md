@@ -1,11 +1,11 @@
-# 🪂 空投雷达日报 2026-11-05
+# 🪂 空投雷达日报 2026-11-06
 
-监控池 **416** 个未发币协议｜今日新增 **416** 个｜30天内上线 11 个｜有融资 28 个
+监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 11 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（15天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（15天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -26,28 +26,28 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$63M｜上线：2026-10-21（15天）
+- 类别：Dexs｜TVL：$56M｜上线：2026-10-21（15天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
 - 推特：https://x.com/aeroxyz
 
 ### Pacifica Bridge（评分 4.9）⚡新上线
-- 类别：Bridge｜TVL：$24M｜上线：2026-10-13（23天）
+- 类别：Bridge｜TVL：$23M｜上线：2026-10-13（23天）
 - 链：Solana
 - 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
 - 官网：https://app.pacifica.fi
 - 推特：https://x.com/pacifica_fi
 
 ### Derive V3 Options（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Options｜TVL：$182M｜上线：2026-10-08（28天）
+- 类别：Options｜TVL：$175M｜上线：2026-10-08（28天）
 - 链：Ethereum
 - 说明：Options on Derive v3, a zkVM exchange settling on Ethereum.
 - 官网：https://app.derive.xyz
 - 推特：https://x.com/derivexyz
 
 ### Papertrade（评分 3.9）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$23M｜上线：2026-10-09（27天）
+- 类别：Derivatives｜TVL：$24M｜上线：2026-10-09（27天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
@@ -63,14 +63,14 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.6B｜上线：2026-10-21（15天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（15天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$93M｜上线：2026-08-15（82天）
+- 类别：Farm｜TVL：$92M｜上线：2026-08-15（82天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -84,28 +84,28 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$67M｜上线：2022-09-05（1521天）
+- 类别：Liquidity Manager｜TVL：$66M｜上线：2022-09-05（1522天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$60M｜上线：2023-08-15（1177天）
+- 类别：Yield｜TVL：$56M｜上线：2023-08-15（1178天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
-### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$52M｜上线：2026-04-07（212天）
+### Starknet BTC Staking（评分 6.9）💰有融资 ⚠未审计
+- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（212天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1090天）
+- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1091天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
@@ -119,14 +119,14 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.0B｜上线：2025-08-19（443天）
+- 类别：Lending｜TVL：$990M｜上线：2025-08-19（443天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$698M｜上线：2024-01-30（1010天）
+- 类别：Derivatives｜TVL：$666M｜上线：2024-01-30（1010天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
