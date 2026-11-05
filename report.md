@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$61M｜上线：2026-10-21（15天）
+- 类别：Dexs｜TVL：$62M｜上线：2026-10-21（15天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -54,7 +54,7 @@
 - 推特：https://x.com/papertrade_xyz
 
 ### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
-- 类别：Lending｜TVL：$21M｜上线：2026-10-22（13天）
+- 类别：Lending｜TVL：$21M｜上线：2026-10-22（14天）
 - 链：Polygon
 - 说明：Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate
 - 官网：https://lend.rnt.finance/
@@ -77,7 +77,7 @@
 - 推特：https://x.com/stellardefihub
 
 ### Popdex Bridge（评分 7.0）
-- 类别：Canonical Bridge｜TVL：$77M｜上线：2026-09-30（35天）
+- 类别：Canonical Bridge｜TVL：$77M｜上线：2026-09-30（36天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
@@ -98,7 +98,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 7.0）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$51M｜上线：2026-04-07（211天）
+- 类别：Staking Pool｜TVL：$52M｜上线：2026-04-07（212天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -111,8 +111,8 @@
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
-### Jupiter Lend DEX（评分 6.7）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（99天）
+### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
+- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（99天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -126,7 +126,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$688M｜上线：2024-01-30（1010天）
+- 类别：Derivatives｜TVL：$694M｜上线：2024-01-30（1010天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
