@@ -1,10 +1,10 @@
 # 🪂 空投雷达日报 2026-11-06
 
-监控池 **409** 个未发币协议｜今日新增 **409** 个｜30天内上线 11 个｜有融资 28 个
+监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 11 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
-### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
+### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
 - 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（15天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
@@ -46,7 +46,7 @@
 - 官网：https://app.derive.xyz
 - 推特：https://x.com/derivexyz
 
-### Papertrade（评分 3.9）⚡新上线 ⚠未审计
+### Papertrade（评分 4.0）⚡新上线 ⚠未审计
 - 类别：Derivatives｜TVL：$24M｜上线：2026-10-09（27天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
@@ -62,7 +62,7 @@
 
 ## 🏆 综合评分 Top 10
 
-### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
+### Hyperliquid Earn（评分 7.6）⚡新上线 💰有融资 ⚠未审计
 - 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（15天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
@@ -70,7 +70,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$92M｜上线：2026-08-15（83天）
+- 类别：Farm｜TVL：$83M｜上线：2026-08-15（83天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -84,7 +84,7 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$66M｜上线：2022-09-05（1522天）
+- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1522天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
@@ -119,14 +119,14 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$989M｜上线：2025-08-19（443天）
+- 类别：Lending｜TVL：$986M｜上线：2025-08-19（443天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$663M｜上线：2024-01-30（1011天）
+- 类别：Derivatives｜TVL：$662M｜上线：2024-01-30（1011天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
