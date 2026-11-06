@@ -1,4 +1,4 @@
-# 🪂 空投雷达日报 2026-11-06
+# 🪂 空投雷达日报 2026-11-07
 
 监控池 **408** 个未发币协议｜今日新增 **408** 个｜30天内上线 11 个｜有融资 28 个
 
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$57M｜上线：2026-10-21（16天）
+- 类别：Dexs｜TVL：$58M｜上线：2026-10-21（17天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -47,7 +47,7 @@
 - 推特：https://x.com/derivexyz
 
 ### Papertrade（评分 4.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$24M｜上线：2026-10-09（28天）
+- 类别：Derivatives｜TVL：$25M｜上线：2026-10-09（28天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
 - 官网：https://papertrade.xyz
@@ -70,7 +70,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$83M｜上线：2026-08-15（83天）
+- 类别：Farm｜TVL：$83M｜上线：2026-08-15（84天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -84,7 +84,7 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$66M｜上线：2022-09-05（1522天）
+- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1523天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
@@ -111,26 +111,26 @@
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
-### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（100天）
-- 链：Solana
-- 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
-- 官网：https://jup.ag/?ref=f6y1ryr2snn3
-- 推特：https://x.com/JupiterExchange
-
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1000M｜上线：2025-08-19（444天）
+- 类别：Lending｜TVL：$926M｜上线：2025-08-19（444天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$663M｜上线：2024-01-30（1011天）
+- 类别：Derivatives｜TVL：$663M｜上线：2024-01-30（1012天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
+
+### Nonce Capital（评分 6.0）⚠未审计
+- 类别：Risk Curators｜TVL：$568M｜上线：2026-10-01（36天）
+- 链：Ethereum, Optimism
+- 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
+- 官网：https://nonce-capital.xyz/
+- 推特：https://x.com/noncecap
 
 ---
 ⚠️ 交互请用小额专用钱包，只从官网/官推进入，不点陌生链接。数据源 DefiLlama，仅供信息参考，不构成投资建议。
