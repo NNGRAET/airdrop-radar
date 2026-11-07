@@ -1,4 +1,4 @@
-# 🪂 空投雷达日报 2026-11-07
+# 🪂 空投雷达日报 2026-11-08
 
 监控池 **408** 个未发币协议｜今日新增 **408** 个｜30天内上线 11 个｜有融资 28 个
 
@@ -39,7 +39,7 @@
 - 官网：https://app.pacifica.fi
 - 推特：https://x.com/pacifica_fi
 
-### Papertrade（评分 4.0）⚡新上线 ⚠未审计
+### Papertrade（评分 3.9）⚡新上线 ⚠未审计
 - 类别：Derivatives｜TVL：$24M｜上线：2026-10-09（29天）
 - 链：Hyperliquid L1
 - 说明：Synthetic BTC and ETH perpetuals on HyperEVM, where traders trade against a protocol-owned liquidity
@@ -84,14 +84,14 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1523天）
+- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1524天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$56M｜上线：2023-08-15（1179天）
+- 类别：Yield｜TVL：$56M｜上线：2023-08-15（1180天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -112,21 +112,21 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$929M｜上线：2025-08-19（445天）
+- 类别：Lending｜TVL：$926M｜上线：2025-08-19（445天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$663M｜上线：2024-01-30（1012天）
+- 类别：Derivatives｜TVL：$661M｜上线：2024-01-30（1012天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$571M｜上线：2026-10-01（37天）
+- 类别：Risk Curators｜TVL：$569M｜上线：2026-10-01（37天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
