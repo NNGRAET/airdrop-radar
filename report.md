@@ -1,4 +1,4 @@
-# 🪂 空投雷达日报 2026-11-08
+# 🪂 空投雷达日报 2026-11-09
 
 监控池 **409** 个未发币协议｜今日新增 **409** 个｜30天内上线 9 个｜有融资 28 个
 
@@ -26,7 +26,7 @@
 - 推特：https://x.com/aeroxyz
 
 ### Pacifica Bridge（评分 4.9）⚡新上线
-- 类别：Bridge｜TVL：$23M｜上线：2026-10-13（26天）
+- 类别：Bridge｜TVL：$24M｜上线：2026-10-13（26天）
 - 链：Solana
 - 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
 - 官网：https://app.pacifica.fi
@@ -39,9 +39,9 @@
 - 官网：https://lend.rnt.finance/
 - 推特：https://x.com/Reental_co
 
-### Metric V1（评分 3.6）⚡新上线 ⚠未审计
+### Metric V1（评分 3.5）⚡新上线 ⚠未审计
 - 类别：Dexs｜TVL：$19M｜上线：2026-10-13（26天）
-- 链：Ethereum, Robinhood Chain, Binance
+- 链：Ethereum, Binance, Robinhood Chain
 - 说明：DEX
 - 官网：https://www.metric.xyz/
 - 推特：https://x.com/Metricxyz
@@ -84,14 +84,14 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1524天）
+- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1525天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$55M｜上线：2023-08-15（1180天）
+- 类别：Yield｜TVL：$55M｜上线：2023-08-15（1181天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -105,21 +105,21 @@
 - 推特：https://x.com/Starknet
 
 ### Kamino Lend（评分 6.8）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1093天）
+- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1094天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$927M｜上线：2025-08-19（446天）
+- 类别：Lending｜TVL：$930M｜上线：2025-08-19（446天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$659M｜上线：2024-01-30（1013天）
+- 类别：Derivatives｜TVL：$661M｜上线：2024-01-30（1013天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
