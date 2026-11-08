@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-09
 
-监控池 **409** 个未发币协议｜今日新增 **409** 个｜30天内上线 9 个｜有融资 28 个
+监控池 **408** 个未发币协议｜今日新增 **408** 个｜30天内上线 9 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -19,7 +19,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$59M｜上线：2026-10-21（18天）
+- 类别：Dexs｜TVL：$59M｜上线：2026-10-21（19天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -47,7 +47,7 @@
 - 推特：https://x.com/Metricxyz
 
 ### NAVI Curator（评分 3.3）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$16M｜上线：2026-10-29（10天）
+- 类别：Risk Curators｜TVL：$16M｜上线：2026-10-29（11天）
 - 链：Sui, Ethereum
 - 说明：NAVI Protocol curates Lagoon vaults on EVM chains, starting with a USDC vault on Ethereum.
 - 官网：https://www.naviprotocol.io/
@@ -70,7 +70,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$83M｜上线：2026-08-15（85天）
+- 类别：Farm｜TVL：$83M｜上线：2026-08-15（86天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -119,14 +119,14 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$661M｜上线：2024-01-30（1013天）
+- 类别：Derivatives｜TVL：$659M｜上线：2024-01-30（1014天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$570M｜上线：2026-10-01（38天）
+- 类别：Risk Curators｜TVL：$569M｜上线：2026-10-01（38天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
