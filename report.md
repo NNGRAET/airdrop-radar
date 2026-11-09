@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-09
 
-监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 9 个｜有融资 28 个
+监控池 **405** 个未发币协议｜今日新增 **405** 个｜30天内上线 8 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -12,7 +12,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$100M｜上线：2026-10-21（18天）
+- 类别：Derivatives｜TVL：$101M｜上线：2026-10-21（18天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
@@ -26,7 +26,7 @@
 - 推特：https://x.com/aeroxyz
 
 ### Pacifica Bridge（评分 4.9）⚡新上线
-- 类别：Bridge｜TVL：$23M｜上线：2026-10-13（26天）
+- 类别：Bridge｜TVL：$23M｜上线：2026-10-13（27天）
 - 链：Solana
 - 说明：Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchan
 - 官网：https://app.pacifica.fi
@@ -53,12 +53,10 @@
 - 官网：https://www.naviprotocol.io/
 - 推特：https://x.com/navi_protocol
 
-### Vesper V2（评分 1.8）⚡新上线
-- 类别：Yield Aggregator｜TVL：$10M｜上线：2026-11-07（1天）
+### CommunityV3（评分 0.2）⚡新上线 ⚠未审计
+- 类别：Dexs｜TVL：$15M｜上线：2026-10-20（20天）
 - 链：Ethereum
-- 说明：Vesper is a platform for easy-to-use DeFi products.
-- 官网：https://vesper.finance/
-- 推特：https://x.com/VesperFi
+- 说明：An unmodified Uniswap V3 deployment on Ethereum with the factory owner burned, so the protocol fee c
 
 ## 🏆 综合评分 Top 10
 
@@ -104,29 +102,29 @@
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
-### Starknet BTC Staking（评分 6.9）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（216天）
+### Starknet BTC Staking（评分 6.8）💰有融资 ⚠未审计
+- 类别：Staking Pool｜TVL：$48M｜上线：2026-04-07（216天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$903M｜上线：2025-08-19（446天）
+- 类别：Lending｜TVL：$911M｜上线：2025-08-19（447天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$647M｜上线：2024-01-30（1014天）
+- 类别：Derivatives｜TVL：$644M｜上线：2024-01-30（1014天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Nonce Capital（评分 6.0）⚠未审计
-- 类别：Risk Curators｜TVL：$554M｜上线：2026-10-01（39天）
+- 类别：Risk Curators｜TVL：$548M｜上线：2026-10-01（39天）
 - 链：Ethereum, Optimism
 - 说明：DeFi risk curator that manages asset allocation and strategies for third-party vaults, including eth
 - 官网：https://nonce-capital.xyz/
