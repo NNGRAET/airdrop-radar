@@ -1,32 +1,32 @@
-# 🪂 空投雷达日报 2026-11-10
+# 🪂 空投雷达日报 2026-11-11
 
-监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 9 个｜有融资 28 个
+监控池 **404** 个未发币协议｜今日新增 **404** 个｜30天内上线 9 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（19天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（20天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
-### Kinetiq Elysium Bridge（评分 6.7）⚡新上线
-- 类别：Canonical Bridge｜TVL：$46M｜上线：2026-11-10（0天）
+### Kinetiq Elysium Bridge（评分 6.6）⚡新上线
+- 类别：Canonical Bridge｜TVL：$45M｜上线：2026-11-10（0天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
 - 推特：https://x.com/Enter_Elysium
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$102M｜上线：2026-10-21（19天）
+- 类别：Derivatives｜TVL：$102M｜上线：2026-10-21（20天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$58M｜上线：2026-10-21（20天）
+- 类别：Dexs｜TVL：$56M｜上线：2026-10-21（20天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -40,14 +40,14 @@
 - 推特：https://x.com/pacifica_fi
 
 ### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
-- 类别：Lending｜TVL：$21M｜上线：2026-10-22（19天）
+- 类别：Lending｜TVL：$22M｜上线：2026-10-22（19天）
 - 链：Polygon
 - 说明：Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate
 - 官网：https://lend.rnt.finance/
 - 推特：https://x.com/Reental_co
 
 ### Metric V1（评分 3.6）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$20M｜上线：2026-10-13（28天）
+- 类别：Dexs｜TVL：$21M｜上线：2026-10-13（28天）
 - 链：Ethereum, Binance, Robinhood Chain
 - 说明：DEX
 - 官网：https://www.metric.xyz/
@@ -63,7 +63,7 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（19天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（20天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -84,49 +84,49 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1526天）
+- 类别：Liquidity Manager｜TVL：$64M｜上线：2022-09-05（1527天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$53M｜上线：2023-08-15（1182天）
+- 类别：Yield｜TVL：$51M｜上线：2023-08-15（1183天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
 ### Kamino Lend（评分 6.9）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1095天）
+- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1096天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
 ### Starknet BTC Staking（评分 6.8）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$48M｜上线：2026-04-07（217天）
+- 类别：Staking Pool｜TVL：$47M｜上线：2026-04-07（217天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
-### Kinetiq Elysium Bridge（评分 6.7）⚡新上线
-- 类别：Canonical Bridge｜TVL：$46M｜上线：2026-11-10（0天）
+### Kinetiq Elysium Bridge（评分 6.6）⚡新上线
+- 类别：Canonical Bridge｜TVL：$45M｜上线：2026-11-10（0天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
 - 推特：https://x.com/Enter_Elysium
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$906M｜上线：2025-08-19（448天）
+- 类别：Lending｜TVL：$880M｜上线：2025-08-19（448天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$644M｜上线：2024-01-30（1015天）
+- 类别：Derivatives｜TVL：$623M｜上线：2024-01-30（1015天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
