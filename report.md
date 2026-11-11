@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-11
 
-监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 9 个｜有融资 28 个
+监控池 **406** 个未发币协议｜今日新增 **406** 个｜30天内上线 9 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$56M｜上线：2026-10-21（21天）
+- 类别：Dexs｜TVL：$55M｜上线：2026-10-21（21天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -47,7 +47,7 @@
 - 推特：https://x.com/Reental_co
 
 ### Metric V1（评分 3.6）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$21M｜上线：2026-10-13（28天）
+- 类别：Dexs｜TVL：$21M｜上线：2026-10-13（29天）
 - 链：Ethereum, Binance, Robinhood Chain
 - 说明：DEX
 - 官网：https://www.metric.xyz/
@@ -84,7 +84,7 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$64M｜上线：2022-09-05（1527天）
+- 类别：Liquidity Manager｜TVL：$65M｜上线：2022-09-05（1527天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
@@ -126,7 +126,7 @@
 - 推特：https://x.com/Enter_Elysium
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$961M｜上线：2025-08-19（448天）
+- 类别：Lending｜TVL：$967M｜上线：2025-08-19（448天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
