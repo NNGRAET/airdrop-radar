@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-13
 
-监控池 **407** 个未发币协议｜今日新增 **407** 个｜30天内上线 7 个｜有融资 28 个
+监控池 **405** 个未发币协议｜今日新增 **405** 个｜30天内上线 7 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -11,8 +11,8 @@
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
-### Kinetiq Elysium Bridge（评分 7.0）⚡新上线
-- 类别：Canonical Bridge｜TVL：$50M｜上线：2026-11-10（3天）
+### Kinetiq Elysium Bridge（评分 6.9）⚡新上线
+- 类别：Canonical Bridge｜TVL：$49M｜上线：2026-11-10（3天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$56M｜上线：2026-10-21（23天）
+- 类别：Dexs｜TVL：$54M｜上线：2026-10-21（23天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -46,8 +46,8 @@
 - 官网：https://www.naviprotocol.io/
 - 推特：https://x.com/navi_protocol
 
-### CommunityV3（评分 0.3）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$16M｜上线：2026-10-20（24天）
+### CommunityV3（评分 0.4）⚡新上线 ⚠未审计
+- 类别：Dexs｜TVL：$17M｜上线：2026-10-20（24天）
 - 链：Ethereum
 - 说明：An unmodified Uniswap V3 deployment on Ethereum with the factory owner burned, so the protocol fee c
 
@@ -75,25 +75,11 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$64M｜上线：2022-09-05（1529天）
+- 类别：Liquidity Manager｜TVL：$63M｜上线：2022-09-05（1529天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
-
-### Sanctum Reserve（评分 7.0）💰有融资
-- 类别：Yield｜TVL：$51M｜上线：2023-08-15（1185天）
-- 链：Solana
-- 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
-- 官网：https://www.sanctum.so
-- 推特：https://x.com/sanctumso
-
-### Kinetiq Elysium Bridge（评分 7.0）⚡新上线
-- 类别：Canonical Bridge｜TVL：$50M｜上线：2026-11-10（3天）
-- 链：Hyperliquid L1
-- 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
-- 官网：https://elysium.kinetiq.xyz
-- 推特：https://x.com/Enter_Elysium
 
 ### Kamino Lend（评分 6.9）💰有融资
 - 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1098天）
@@ -102,8 +88,22 @@
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
-### Starknet BTC Staking（评分 6.9）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$49M｜上线：2026-04-07（220天）
+### Kinetiq Elysium Bridge（评分 6.9）⚡新上线
+- 类别：Canonical Bridge｜TVL：$49M｜上线：2026-11-10（3天）
+- 链：Hyperliquid L1
+- 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
+- 官网：https://elysium.kinetiq.xyz
+- 推特：https://x.com/Enter_Elysium
+
+### Sanctum Reserve（评分 6.9）💰有融资
+- 类别：Yield｜TVL：$49M｜上线：2023-08-15（1185天）
+- 链：Solana
+- 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
+- 官网：https://www.sanctum.so
+- 推特：https://x.com/sanctumso
+
+### Starknet BTC Staking（评分 6.8）💰有融资 ⚠未审计
+- 类别：Staking Pool｜TVL：$47M｜上线：2026-04-07（220天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -117,7 +117,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$949M｜上线：2025-08-19（450天）
+- 类别：Lending｜TVL：$938M｜上线：2025-08-19（450天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
