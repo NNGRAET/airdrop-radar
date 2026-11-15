@@ -1,25 +1,25 @@
-# 🪂 空投雷达日报 2026-11-15
+# 🪂 空投雷达日报 2026-11-16
 
-监控池 **394** 个未发币协议｜今日新增 **394** 个｜30天内上线 7 个｜有融资 28 个
+监控池 **397** 个未发币协议｜今日新增 **397** 个｜30天内上线 7 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（24天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（25天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
-### Kinetiq Elysium Bridge（评分 6.9）⚡新上线
-- 类别：Canonical Bridge｜TVL：$48M｜上线：2026-11-10（5天）
+### Kinetiq Elysium Bridge（评分 7.0）⚡新上线
+- 类别：Canonical Bridge｜TVL：$50M｜上线：2026-11-10（5天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
 - 推特：https://x.com/Enter_Elysium
 
 ### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$95M｜上线：2026-10-21（24天）
+- 类别：Derivatives｜TVL：$95M｜上线：2026-10-21（25天）
 - 链：zkLighter
 - 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
 - 官网：https://app.lighter.xyz
@@ -54,7 +54,7 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（24天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（25天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -68,32 +68,32 @@
 - 推特：https://x.com/popdex_
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$71M｜上线：2026-08-15（92天）
+- 类别：Farm｜TVL：$70M｜上线：2026-08-15（92天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
 - 推特：https://x.com/stellardefihub
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$61M｜上线：2022-09-05（1531天）
+- 类别：Liquidity Manager｜TVL：$61M｜上线：2022-09-05（1532天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
-### Kamino Lend（评分 6.9）💰有融资
-- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1100天）
-- 链：Solana
-- 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
-- 官网：https://kamino.com/
-- 推特：https://x.com/Kamino
-
-### Kinetiq Elysium Bridge（评分 6.9）⚡新上线
-- 类别：Canonical Bridge｜TVL：$48M｜上线：2026-11-10（5天）
+### Kinetiq Elysium Bridge（评分 7.0）⚡新上线
+- 类别：Canonical Bridge｜TVL：$50M｜上线：2026-11-10（5天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
 - 推特：https://x.com/Enter_Elysium
+
+### Kamino Lend（评分 6.9）💰有融资
+- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1101天）
+- 链：Solana
+- 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
+- 官网：https://kamino.com/
+- 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
 - 类别：Dexs｜TVL：$35M｜上线：2026-07-29（109天）
@@ -102,22 +102,22 @@
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
-### Starknet BTC Staking（评分 6.5）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$44M｜上线：2026-04-07（222天）
+### Starknet BTC Staking（评分 6.6）💰有融资 ⚠未审计
+- 类别：Staking Pool｜TVL：$45M｜上线：2026-04-07（222天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Sanctum Reserve（评分 6.5）💰有融资
-- 类别：Yield｜TVL：$43M｜上线：2023-08-15（1187天）
+- 类别：Yield｜TVL：$44M｜上线：2023-08-15（1188天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$915M｜上线：2025-08-19（453天）
+- 类别：Lending｜TVL：$933M｜上线：2025-08-19（453天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
