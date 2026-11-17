@@ -1,11 +1,11 @@
-# 🪂 空投雷达日报 2026-11-17
+# 🪂 空投雷达日报 2026-11-18
 
-监控池 **397** 个未发币协议｜今日新增 **397** 个｜30天内上线 7 个｜有融资 29 个
+监控池 **396** 个未发币协议｜今日新增 **396** 个｜30天内上线 7 个｜有融资 29 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（27天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（27天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -26,7 +26,7 @@
 - 推特：https://x.com/Lighter_xyz
 
 ### Aero Basic（评分 5.9）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$49M｜上线：2026-10-21（27天）
+- 类别：Dexs｜TVL：$49M｜上线：2026-10-21（28天）
 - 链：Base, Optimism, Robinhood Chain
 - 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
 - 官网：https://aero.xyz/
@@ -40,46 +40,46 @@
 - 推特：https://x.com/Reental_co
 
 ### NAVI Curator（评分 3.2）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$15M｜上线：2026-10-29（19天）
+- 类别：Risk Curators｜TVL：$15M｜上线：2026-10-29（20天）
 - 链：Sui, Ethereum
 - 说明：NAVI Protocol curates Lagoon vaults on EVM chains, starting with a USDC vault on Ethereum.
 - 官网：https://www.naviprotocol.io/
 - 推特：https://x.com/navi_protocol
 
 ### CommunityV3（评分 0.5）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$19M｜上线：2026-10-20（28天）
+- 类别：Dexs｜TVL：$19M｜上线：2026-10-20（29天）
 - 链：Ethereum
 - 说明：An unmodified Uniswap V3 deployment on Ethereum with the factory owner burned, so the protocol fee c
 
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（27天）
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（27天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
 - 推特：https://x.com/HyperliquidX
 
 ### Popdex Bridge（评分 7.0）
-- 类别：Canonical Bridge｜TVL：$84M｜上线：2026-09-30（48天）
+- 类别：Canonical Bridge｜TVL：$84M｜上线：2026-09-30（49天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
 - 推特：https://x.com/popdex_
 
-### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$65M｜上线：2026-08-15（94天）
-- 链：Stellar
-- 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
-- 官网：https://stellardefihub.com/
-- 推特：https://x.com/stellardefihub
-
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$62M｜上线：2022-09-05（1533天）
+- 类别：Liquidity Manager｜TVL：$61M｜上线：2022-09-05（1534天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
+
+### Stellar DeFi Hub（评分 7.0）
+- 类别：Farm｜TVL：$60M｜上线：2026-08-15（95天）
+- 链：Stellar
+- 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
+- 官网：https://stellardefihub.com/
+- 推特：https://x.com/stellardefihub
 
 ### Kamino Lend（评分 6.9）💰有融资
 - 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1103天）
@@ -88,15 +88,8 @@
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
-### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（111天）
-- 链：Solana
-- 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
-- 官网：https://jup.ag/?ref=f6y1ryr2snn3
-- 推特：https://x.com/JupiterExchange
-
 ### Sanctum Reserve（评分 6.6）💰有融资
-- 类别：Yield｜TVL：$45M｜上线：2023-08-15（1189天）
+- 类别：Yield｜TVL：$45M｜上线：2023-08-15（1190天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -117,9 +110,16 @@
 - 推特：https://x.com/Enter_Elysium
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$971M｜上线：2025-08-19（455天）
+- 类别：Lending｜TVL：$963M｜上线：2025-08-19（455天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
+- 官网：https://jup.ag/?ref=f6y1ryr2snn3
+- 推特：https://x.com/JupiterExchange
+
+### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
+- 类别：Derivatives｜TVL：$584M｜上线：2024-01-30（1023天）
+- 链：Solana
+- 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
