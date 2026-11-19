@@ -1,6 +1,6 @@
-# 🪂 空投雷达日报 2026-11-19
+# 🪂 空投雷达日报 2026-11-20
 
-监控池 **396** 个未发币协议｜今日新增 **396** 个｜30天内上线 6 个｜有融资 28 个
+监控池 **394** 个未发币协议｜今日新增 **394** 个｜30天内上线 5 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -25,13 +25,6 @@
 - 官网：https://app.lighter.xyz
 - 推特：https://x.com/Lighter_xyz
 
-### Aero Basic（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Dexs｜TVL：$49M｜上线：2026-10-21（29天）
-- 链：Base, Optimism, Robinhood Chain
-- 说明：Decentralized exchange offering stable and volatile AMM liquidity pools across multiple EVM networks
-- 官网：https://aero.xyz/
-- 推特：https://x.com/aeroxyz
-
 ### RNT Lend（评分 3.7）⚡新上线 ⚠未审计
 - 类别：Lending｜TVL：$21M｜上线：2026-10-22（28天）
 - 链：Polygon
@@ -40,7 +33,7 @@
 - 推特：https://x.com/Reental_co
 
 ### NAVI Curator（评分 3.1）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$14M｜上线：2026-10-29（21天）
+- 类别：Risk Curators｜TVL：$14M｜上线：2026-10-29（22天）
 - 链：Sui, Ethereum
 - 说明：NAVI Protocol curates Lagoon vaults on EVM chains, starting with a USDC vault on Ethereum.
 - 官网：https://www.naviprotocol.io/
@@ -63,14 +56,14 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$62M｜上线：2022-09-05（1535天）
+- 类别：Liquidity Manager｜TVL：$61M｜上线：2022-09-05（1536天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$60M｜上线：2026-08-15（96天）
+- 类别：Farm｜TVL：$51M｜上线：2026-08-15（97天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -84,21 +77,21 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（113天）
+- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（114天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Sanctum Reserve（评分 6.7）💰有融资
-- 类别：Yield｜TVL：$47M｜上线：2023-08-15（1191天）
+- 类别：Yield｜TVL：$46M｜上线：2023-08-15（1192天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.5）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$44M｜上线：2026-04-07（226天）
+- 类别：Staking Pool｜TVL：$43M｜上线：2026-04-07（226天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -112,7 +105,7 @@
 - 推特：https://x.com/Enter_Elysium
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$966M｜上线：2025-08-19（457天）
+- 类别：Lending｜TVL：$961M｜上线：2025-08-19（457天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
