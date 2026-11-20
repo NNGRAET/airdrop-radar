@@ -1,25 +1,11 @@
 # 🪂 空投雷达日报 2026-11-20
 
-监控池 **394** 个未发币协议｜今日新增 **394** 个｜30天内上线 5 个｜有融资 28 个
+监控池 **393** 个未发币协议｜今日新增 **393** 个｜30天内上线 3 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
-### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（29天）
-- 链：Hyperliquid L1
-- 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
-- 官网：https://app.hyperliquid.xyz/earn
-- 推特：https://x.com/HyperliquidX
-
-### Lighter LLP（评分 6.0）⚡新上线 ⚠未审计
-- 类别：Derivatives｜TVL：$82M｜上线：2026-10-21（29天）
-- 链：zkLighter
-- 说明：Protocol-run, community-owned pool that provides liquidity to Lighter, runs market-making strategies
-- 官网：https://app.lighter.xyz
-- 推特：https://x.com/Lighter_xyz
-
 ### Kinetiq Elysium Bridge（评分 5.9）⚡新上线
-- 类别：Canonical Bridge｜TVL：$37M｜上线：2026-11-10（10天）
+- 类别：Canonical Bridge｜TVL：$36M｜上线：2026-11-10（10天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -41,8 +27,8 @@
 
 ## 🏆 综合评分 Top 10
 
-### Hyperliquid Earn（评分 7.7）⚡新上线 💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（29天）
+### Hyperliquid Earn（评分 7.7）💰有融资 ⚠未审计
+- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（30天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -98,14 +84,14 @@
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$977M｜上线：2025-08-19（457天）
+- 类别：Lending｜TVL：$970M｜上线：2025-08-19（458天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$580M｜上线：2024-01-30（1025天）
+- 类别：Derivatives｜TVL：$579M｜上线：2024-01-30（1025天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
