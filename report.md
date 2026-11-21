@@ -1,18 +1,18 @@
 # 🪂 空投雷达日报 2026-11-22
 
-监控池 **388** 个未发币协议｜今日新增 **388** 个｜30天内上线 2 个｜有融资 28 个
+监控池 **389** 个未发币协议｜今日新增 **389** 个｜30天内上线 2 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
-### Kinetiq Elysium Bridge（评分 5.6）⚡新上线
-- 类别：Canonical Bridge｜TVL：$33M｜上线：2026-11-10（11天）
+### Kinetiq Elysium Bridge（评分 5.5）⚡新上线
+- 类别：Canonical Bridge｜TVL：$32M｜上线：2026-11-10（11天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
 - 推特：https://x.com/Enter_Elysium
 
 ### NAVI Curator（评分 2.9）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$11M｜上线：2026-10-29（23天）
+- 类别：Risk Curators｜TVL：$11M｜上线：2026-10-29（24天）
 - 链：Sui, Ethereum
 - 说明：NAVI Protocol curates Lagoon vaults on EVM chains, starting with a USDC vault on Ethereum.
 - 官网：https://www.naviprotocol.io/
@@ -28,7 +28,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Popdex Bridge（评分 7.0）
-- 类别：Canonical Bridge｜TVL：$84M｜上线：2026-09-30（52天）
+- 类别：Canonical Bridge｜TVL：$84M｜上线：2026-09-30（53天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
@@ -49,14 +49,14 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（115天）
+- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（116天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Stellar DeFi Hub（评分 6.7）
-- 类别：Farm｜TVL：$46M｜上线：2026-08-15（98天）
+- 类别：Farm｜TVL：$46M｜上线：2026-08-15（99天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -70,7 +70,7 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.3）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$41M｜上线：2026-04-07（228天）
+- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（229天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
@@ -84,7 +84,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$568M｜上线：2024-01-30（1026天）
+- 类别：Derivatives｜TVL：$569M｜上线：2024-01-30（1027天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
