@@ -1,6 +1,6 @@
 # 🪂 空投雷达日报 2026-11-22
 
-监控池 **389** 个未发币协议｜今日新增 **389** 个｜30天内上线 2 个｜有融资 28 个
+监控池 **387** 个未发币协议｜今日新增 **387** 个｜30天内上线 2 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
@@ -21,7 +21,7 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.4B｜上线：2026-10-21（31天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（32天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -70,21 +70,21 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.3）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$41M｜上线：2026-04-07（229天）
+- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（229天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$954M｜上线：2025-08-19（459天）
+- 类别：Lending｜TVL：$953M｜上线：2025-08-19（460天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$568M｜上线：2024-01-30（1027天）
+- 类别：Derivatives｜TVL：$571M｜上线：2024-01-30（1027天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
