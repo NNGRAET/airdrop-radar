@@ -1,4 +1,4 @@
-# 🪂 空投雷达日报 2026-11-22
+# 🪂 空投雷达日报 2026-11-23
 
 监控池 **387** 个未发币协议｜今日新增 **387** 个｜30天内上线 2 个｜有融资 28 个
 
@@ -12,7 +12,7 @@
 - 推特：https://x.com/Enter_Elysium
 
 ### NAVI Curator（评分 2.9）⚡新上线 ⚠未审计
-- 类别：Risk Curators｜TVL：$11M｜上线：2026-10-29（24天）
+- 类别：Risk Curators｜TVL：$11M｜上线：2026-10-29（25天）
 - 链：Sui, Ethereum
 - 说明：NAVI Protocol curates Lagoon vaults on EVM chains, starting with a USDC vault on Ethereum.
 - 官网：https://www.naviprotocol.io/
@@ -35,21 +35,21 @@
 - 推特：https://x.com/popdex_
 
 ### Kamino Liquidity（评分 7.0）💰有融资
-- 类别：Liquidity Manager｜TVL：$60M｜上线：2022-09-05（1538天）
+- 类别：Liquidity Manager｜TVL：$60M｜上线：2022-09-05（1539天）
 - 链：Solana
 - 说明：Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates autom
 - 官网：https://kamino.com/liquidity
 - 推特：https://x.com/Kamino
 
 ### Kamino Lend（评分 6.9）💰有融资
-- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1107天）
+- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1108天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$34M｜上线：2026-07-29（116天）
+- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（116天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
@@ -63,13 +63,13 @@
 - 推特：https://x.com/stellardefihub
 
 ### Sanctum Reserve（评分 6.5）💰有融资
-- 类别：Yield｜TVL：$44M｜上线：2023-08-15（1194天）
+- 类别：Yield｜TVL：$44M｜上线：2023-08-15（1195天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
-### Starknet BTC Staking（评分 6.3）💰有融资 ⚠未审计
+### Starknet BTC Staking（评分 6.4）💰有融资 ⚠未审计
 - 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（229天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
@@ -77,14 +77,14 @@
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$953M｜上线：2025-08-19（460天）
+- 类别：Lending｜TVL：$959M｜上线：2025-08-19（460天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$571M｜上线：2024-01-30（1027天）
+- 类别：Derivatives｜TVL：$573M｜上线：2024-01-30（1027天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
