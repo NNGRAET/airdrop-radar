@@ -5,7 +5,7 @@
 ## ⚡ 新上线速览（30 天内）
 
 ### Kinetiq Elysium Bridge（评分 5.5）⚡新上线
-- 类别：Canonical Bridge｜TVL：$31M｜上线：2026-11-10（12天）
+- 类别：Canonical Bridge｜TVL：$31M｜上线：2026-11-10（13天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -28,7 +28,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Popdex Bridge（评分 7.0）
-- 类别：Canonical Bridge｜TVL：$84M｜上线：2026-09-30（53天）
+- 类别：Canonical Bridge｜TVL：$85M｜上线：2026-09-30（54天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
@@ -49,14 +49,14 @@
 - 推特：https://x.com/Kamino
 
 ### Jupiter Lend DEX（评分 6.8）💰有融资 ⚠未审计
-- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（116天）
+- 类别：Dexs｜TVL：$35M｜上线：2026-07-29（117天）
 - 链：Solana
 - 说明：Jupiter Lend DEX, the AMM on Jupiter Lend's shared liquidity layer
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Stellar DeFi Hub（评分 6.7）
-- 类别：Farm｜TVL：$46M｜上线：2026-08-15（99天）
+- 类别：Farm｜TVL：$46M｜上线：2026-08-15（100天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -70,21 +70,21 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.4）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（229天）
+- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（230天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$959M｜上线：2025-08-19（460天）
+- 类别：Lending｜TVL：$955M｜上线：2025-08-19（460天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$573M｜上线：2024-01-30（1027天）
+- 类别：Derivatives｜TVL：$569M｜上线：2024-01-30（1028天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
