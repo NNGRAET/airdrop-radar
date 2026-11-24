@@ -1,11 +1,11 @@
 # 🪂 空投雷达日报 2026-11-24
 
-监控池 **389** 个未发币协议｜今日新增 **389** 个｜30天内上线 2 个｜有融资 28 个
+监控池 **390** 个未发币协议｜今日新增 **390** 个｜30天内上线 2 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Kinetiq Elysium Bridge（评分 5.6）⚡新上线
-- 类别：Canonical Bridge｜TVL：$33M｜上线：2026-11-10（13天）
+- 类别：Canonical Bridge｜TVL：$33M｜上线：2026-11-10（14天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -28,7 +28,7 @@
 - 推特：https://x.com/HyperliquidX
 
 ### Popdex Bridge（评分 7.0）
-- 类别：Canonical Bridge｜TVL：$85M｜上线：2026-09-30（54天）
+- 类别：Canonical Bridge｜TVL：$85M｜上线：2026-09-30（55天）
 - 链：Arbitrum, Morph
 - 说明：The bridge connects Morph Tachyon (the hub) to external EVM custody chains.
 - 官网：https://popdex.xyz/
@@ -49,7 +49,7 @@
 - 推特：https://x.com/Kamino
 
 ### Kamino Lend（评分 6.9）💰有融资
-- 类别：Lending｜TVL：$1.2B｜上线：2023-11-10（1109天）
+- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1109天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
@@ -69,22 +69,22 @@
 - 官网：https://www.sanctum.so
 - 推特：https://x.com/sanctumso
 
-### Starknet BTC Staking（评分 6.4）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（230天）
+### Starknet BTC Staking（评分 6.3）💰有融资 ⚠未审计
+- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（231天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$972M｜上线：2025-08-19（461天）
+- 类别：Lending｜TVL：$957M｜上线：2025-08-19（461天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$582M｜上线：2024-01-30（1029天）
+- 类别：Derivatives｜TVL：$570M｜上线：2024-01-30（1029天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
