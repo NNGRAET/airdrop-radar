@@ -1,11 +1,11 @@
 # 🪂 空投雷达日报 2026-11-26
 
-监控池 **384** 个未发币协议｜今日新增 **384** 个｜30天内上线 2 个｜有融资 28 个
+监控池 **385** 个未发币协议｜今日新增 **385** 个｜30天内上线 2 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
 ### Kinetiq Elysium Bridge（评分 5.5）⚡新上线
-- 类别：Canonical Bridge｜TVL：$32M｜上线：2026-11-10（15天）
+- 类别：Canonical Bridge｜TVL：$31M｜上线：2026-11-10（16天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -35,7 +35,7 @@
 - 推特：https://x.com/popdex_
 
 ### Stellar DeFi Hub（评分 7.0）
-- 类别：Farm｜TVL：$63M｜上线：2026-08-15（103天）
+- 类别：Farm｜TVL：$79M｜上线：2026-08-15（103天）
 - 链：Stellar
 - 说明：Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults 
 - 官网：https://stellardefihub.com/
@@ -70,21 +70,21 @@
 - 推特：https://x.com/sanctumso
 
 ### Starknet BTC Staking（评分 6.3）💰有融资 ⚠未审计
-- 类别：Staking Pool｜TVL：$41M｜上线：2026-04-07（232天）
+- 类别：Staking Pool｜TVL：$42M｜上线：2026-04-07（233天）
 - 链：Starknet
 - 说明：Bitcoin Staking on Starknet.
 - 官网：https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$946M｜上线：2025-08-19（463天）
+- 类别：Lending｜TVL：$950M｜上线：2025-08-19（463天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$569M｜上线：2024-01-30（1031天）
+- 类别：Derivatives｜TVL：$571M｜上线：2024-01-30（1031天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
