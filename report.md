@@ -1,11 +1,11 @@
 # 🪂 空投雷达日报 2026-11-26
 
-监控池 **385** 个未发币协议｜今日新增 **385** 个｜30天内上线 2 个｜有融资 28 个
+监控池 **384** 个未发币协议｜今日新增 **384** 个｜30天内上线 2 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
-### Kinetiq Elysium Bridge（评分 5.5）⚡新上线
-- 类别：Canonical Bridge｜TVL：$31M｜上线：2026-11-10（16天）
+### Kinetiq Elysium Bridge（评分 5.4）⚡新上线
+- 类别：Canonical Bridge｜TVL：$30M｜上线：2026-11-10（16天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -21,7 +21,7 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（35天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（36天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -49,7 +49,7 @@
 - 推特：https://x.com/Kamino
 
 ### Kamino Lend（评分 6.9）💰有融资
-- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1111天）
+- 类别：Lending｜TVL：$1.1B｜上线：2023-11-10（1112天）
 - 链：Solana
 - 说明：Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastruc
 - 官网：https://kamino.com/
@@ -63,7 +63,7 @@
 - 推特：https://x.com/JupiterExchange
 
 ### Sanctum Reserve（评分 6.5）💰有融资
-- 类别：Yield｜TVL：$44M｜上线：2023-08-15（1198天）
+- 类别：Yield｜TVL：$44M｜上线：2023-08-15（1199天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
 - 官网：https://www.sanctum.so
@@ -77,14 +77,14 @@
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$950M｜上线：2025-08-19（463天）
+- 类别：Lending｜TVL：$947M｜上线：2025-08-19（464天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$571M｜上线：2024-01-30（1031天）
+- 类别：Derivatives｜TVL：$570M｜上线：2024-01-30（1031天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
