@@ -1,11 +1,11 @@
 # 🪂 空投雷达日报 2026-11-28
 
-监控池 **385** 个未发币协议｜今日新增 **385** 个｜30天内上线 1 个｜有融资 28 个
+监控池 **384** 个未发币协议｜今日新增 **384** 个｜30天内上线 1 个｜有融资 28 个
 
 ## ⚡ 新上线速览（30 天内）
 
-### Kinetiq Elysium Bridge（评分 5.8）⚡新上线
-- 类别：Canonical Bridge｜TVL：$35M｜上线：2026-11-10（18天）
+### Kinetiq Elysium Bridge（评分 5.9）⚡新上线
+- 类别：Canonical Bridge｜TVL：$36M｜上线：2026-11-10（18天）
 - 链：Hyperliquid L1
 - 说明：Canonical bridge between HyperEVM and Elysium, Kinetiq's Arbitrum Orbit L3.
 - 官网：https://elysium.kinetiq.xyz
@@ -14,7 +14,7 @@
 ## 🏆 综合评分 Top 10
 
 ### Hyperliquid Earn（评分 7.7）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（37天）
+- 类别：Lending｜TVL：$1.5B｜上线：2026-10-21（38天）
 - 链：Hyperliquid L1
 - 说明：HyperCore-native collateralized lending, supporting manual borrowing and portfolio-margin accounts
 - 官网：https://app.hyperliquid.xyz/earn
@@ -55,7 +55,7 @@
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
-### Sanctum Reserve（评分 6.6）💰有融资
+### Sanctum Reserve（评分 6.5）💰有融资
 - 类别：Yield｜TVL：$44M｜上线：2023-08-15（1200天）
 - 链：Solana
 - 说明：The Reserve, also known as Sanctum Reserve Pool, is a pool of idle SOL that accepts staked SOL and g
@@ -70,14 +70,14 @@
 - 推特：https://x.com/Starknet
 
 ### Jupiter Lend（评分 6.0）💰有融资 ⚠未审计
-- 类别：Lending｜TVL：$959M｜上线：2025-08-19（465天）
+- 类别：Lending｜TVL：$953M｜上线：2025-08-19（466天）
 - 链：Solana
 - 说明：Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
 - 推特：https://x.com/JupiterExchange
 
 ### Jupiter Perpetual Exchange（评分 6.0）💰有融资 ⚠未审计
-- 类别：Derivatives｜TVL：$569M｜上线：2024-01-30（1033天）
+- 类别：Derivatives｜TVL：$566M｜上线：2024-01-30（1033天）
 - 链：Solana
 - 说明：Jupiter Perpetual Exchange is a LP-to-trader perpetual exchange based on oracle prices.
 - 官网：https://jup.ag/?ref=f6y1ryr2snn3
